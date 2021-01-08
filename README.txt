@@ -49,7 +49,7 @@ in "runpodsimualtionew.R"
 Change parameters and time range of prior in "testprior.R" 
 
 Change numbers in "PODsimulation_expansion.R" lines 74-80, 128, & 137 to match empirical data to be simulated. See https://github.com/UH-Bioinformatics/hBayeSSC for descriptions.
-###RW: I removed the beginning lines that were overwritten by the runpodsimulationnew.R script, however I believe the above lines still need to changed, correct?
+
 	
 ~Run "runpodsimualtionew.R" ###Generates Reference table: Must have BayeSSC, hBayeSSC.py, "PODsimulation_expansion.R", "sampleexptime.R" and "testprior.par" in the folder
 
